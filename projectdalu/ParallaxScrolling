@@ -1,0 +1,19 @@
+<div id="frame">
+<article>  
+<div class="parallax">
+    <div class="bg__foo">foo</div>
+    <div class="bg__bar">bar</div>
+    <div class="bg__baz">baz</div>
+    <div class="bg__bazz">bazz</div>
+  </div>
+  <div class="header">
+    <h1>PARALLAX SCROLLING</h1>
+  </div>
+  <section>
+    <div class="container">
+      <p>A Project for LimeLight </p>
+      
+    </div>
+  </section>
+</article>
+</div>
